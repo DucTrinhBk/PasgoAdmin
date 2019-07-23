@@ -1,0 +1,24 @@
+﻿<div class="container-fluid">
+    <div id="ThongTinCoBan" class="jumbotron jumbotron-fluid">
+        @{
+            Html.RenderAction("ThongTinCoBan");
+        }
+    </div>
+    <div id="ThucDon" class="jumbotron jumbotron-fluid">
+        @{ 
+            Html.RenderAction("ThucDon");
+        }
+    </div>
+    <div id="Slide" class="jumbotron jumbotron-fluid">
+        @RenderPage("SubViews/Slide.cshtml")
+    </div>
+    <div id="BaiViet" class="jumbotron jumbotron-fluid">
+        @{
+            Html.RenderAction("BaiViet");
+        }
+        
+    </div>
+    <div id="SeoTag" class="jumbotron jumbotron-fluid">
+        @RenderPage("SubViews/SeoTag.cshtml")
+    </div>
+</div>

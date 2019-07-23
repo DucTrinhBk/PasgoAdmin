@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Styles.Render("~/Content/kendo/css")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Pasgo", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                @RenderPage("_Menu.cshtml")
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            @RenderPage("_Footer.cshtml")
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/kendo")
+    @RenderSection("scripts", required: false)
+    <script>
+        $(document).ready(function () {
+            $("#BangThucDon").kendoGrid({
+                dataSource: {
+                    type: "MonAnRender",
+                    transport: {
+                        read: "http://localhost:52461/Home/BangThucDon"
+                    },
+                    pageSize: 5
+                },
+                
+                groupable: false,
+                sortable: true,
+                pageable: {
+                    refresh: true,
+                    pageSizes: true,
+                    buttonCount: 5
+                },
+                columns: [{
+
+                    field: "STT",
+                    title: "STT"
+                }, {
+                    field: "Loai",
+                    title: "Loại món"
+                },
+                {
+                    field: "Nhom",
+                    title: "Nhóm món"
+                },
+                {
+                    field: "Ten",
+                    title: "Tên món"
+                },
+                {
+                    field: "QuyCach",
+                    title: "Quy cách"
+                },
+                {
+                    field: "Gia",
+                    title: "Giá bán"
+                },
+                {
+                    field: "GiaMangVe",
+                    title: "Giá Mang Về"
+                },
+                {
+                    template: "<img class='dt-img' alt='#:data.Ten#' src='~/Content/Images/default.jpg'/>",
+                        title: "Ảnh"
+                    }
+                ]
+            });
+        });
+    </script>
+</body>
+</html>

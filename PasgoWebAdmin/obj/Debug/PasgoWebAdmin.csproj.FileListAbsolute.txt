@@ -1,0 +1,156 @@
+D:\PasgoWebAdmin\PasgoWebAdmin\obj\Debug\PasgoWebAdmin.csprojAssemblyReference.cache
+D:\PasgoWebAdmin\PasgoWebAdmin\obj\Debug\PasgoWebAdmin.csproj.CoreCompileInputs.cache
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\PasgoWebAdmin.dll.config
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\PasgoWebAdmin.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\PasgoWebAdmin.pdb
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\csc.exe
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\csc.exe.config
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\csc.rsp
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\csi.exe
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\csi.exe.config
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\csi.rsp
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.AppContext.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Console.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.IO.Compression.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.IO.Pipes.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.AccessControl.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.Claims.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.ValueTuple.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\vbc.exe
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\vbc.exe.config
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\vbc.rsp
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\VBCSCompiler.exe
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\Antlr3.Runtime.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\Microsoft.Web.Infrastructure.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\Newtonsoft.Json.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Helpers.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Mvc.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Optimization.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Razor.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.WebPages.Deployment.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.WebPages.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.WebPages.Razor.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\WebGrease.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Helpers.xml
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Mvc.xml
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Razor.xml
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.WebPages.xml
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.WebPages.Deployment.xml
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.WebPages.Razor.xml
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Optimization.xml
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\Newtonsoft.Json.xml
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\Antlr3.Runtime.pdb
+D:\PasgoWebAdmin\PasgoWebAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PasgoWebAdmin\PasgoWebAdmin\obj\Debug\PasgoWebAdmin.csproj.CopyComplete
+D:\PasgoWebAdmin\PasgoWebAdmin\obj\Debug\PasgoWebAdmin.dll
+D:\PasgoWebAdmin\PasgoWebAdmin\obj\Debug\PasgoWebAdmin.pdb
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\PasgoWebAdmin.dll.config
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\PasgoWebAdmin.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\PasgoWebAdmin.pdb
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\csc.exe
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\csc.exe.config
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\csc.rsp
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\csi.exe
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\csi.exe.config
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\csi.rsp
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Console.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\vbc.exe
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\vbc.exe.config
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\vbc.rsp
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\Antlr3.Runtime.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\Newtonsoft.Json.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\PagedList.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\PagedList.Mvc.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Helpers.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Mvc.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Optimization.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Razor.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.WebPages.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\WebGrease.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\PagedList.xml
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\PagedList.Mvc.xml
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Helpers.xml
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Mvc.xml
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Razor.xml
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.WebPages.xml
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\System.Web.Optimization.xml
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\Newtonsoft.Json.xml
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\obj\Debug\PasgoWebAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\obj\Debug\PasgoWebAdmin.csproj.CopyComplete
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\obj\Debug\PasgoWebAdmin.dll
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\obj\Debug\PasgoWebAdmin.pdb
+C:\Users\Windows 10 TIMT\Desktop\PasgoWebAdmin\PasgoWebAdmin\obj\Debug\PasgoWebAdmin.csprojAssemblyReference.cache
